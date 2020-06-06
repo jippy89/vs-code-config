@@ -1,0 +1,14 @@
+[
+    {
+        "key": "ctrl+tab",
+        "command": "workbench.action.nextEditorInGroup"
+    },
+    {
+        "key": "ctrl+shift+tab",
+        "command": "workbench.action.previousEditorInGroup"
+    },
+    { "key": "ctrl+shift+j", "command": "workbench.action.terminal.focusNext" },
+    { "key": "ctrl+shift+k", "command": "workbench.action.terminal.focusPrevious" },
+    { "key": "ctrl+n", "command": "explorer.newFile" },
+    { "key": "ctrl+shift+n", "command": "explorer.newFolder" }
+]
